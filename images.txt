@@ -4,3 +4,6 @@ redis:6.2.14
 halohub/halo:2.18
 amuguelove/weixin-md:1.0.0
 ghcr.io/open-webui/open-webui:main
+docker.io/library/caddy:2-alpine
+docker.io/searxng/searxng:latest
+docker.io/valkey/valkey:7-alpine
