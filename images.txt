@@ -10,3 +10,4 @@ docker.io/valkey/valkey:8-alpine
 docker.io/library/caddy:2-alpine
 1panel/maxkb:v1.0.4
 1panel/maxkb:latest
+apitable/all-in-one:latest
