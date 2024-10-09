@@ -11,6 +11,6 @@ docker.io/library/caddy:2-alpine
 1panel/maxkb:v1.0.4
 1panel/maxkb:latest
 apitable/all-in-one:latest
-docker.elastic.co/elasticsearch/elasticsearch:latest
+elasticsearch/elasticsearch:latest
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 infiniflow/ragflow:latest
