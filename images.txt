@@ -1,1 +1,1 @@
-infiniflow/ragflow:dev-slim
+mysql:8.0.39
