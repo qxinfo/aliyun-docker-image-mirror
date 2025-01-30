@@ -1,1 +1,1 @@
-apitable/all-in-one:latest
+ghcr.io/open-webui/open-webui:main
